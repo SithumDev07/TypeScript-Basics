@@ -1,0 +1,23 @@
+{
+  "name": "typescript-basics-fireship",
+  "version": "1.0.0",
+  "description": "01  ->  Overview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SithumDev07/TypeScript-Basics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SithumDev07/TypeScript-Basics/issues"
+  },
+  "homepage": "https://github.com/SithumDev07/TypeScript-Basics#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
